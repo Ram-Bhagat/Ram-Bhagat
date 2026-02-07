@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 Software Developer with **2+ years of hands-on experience**
+- 👨‍💻 Software Developer with **2.5+ years of hands-on experience**
 - 🅰️ Strong expertise in **Angular, JavaScript, HTML, CSS**
 - ⚛️ **Proficient in React & Next.js**
 - 🐍 Backend Developer with **Python & FastAPI**
