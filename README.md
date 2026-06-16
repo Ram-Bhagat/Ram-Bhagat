@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Ram+Bhagat;Frontend+Developer+%7C+Angular+%7C+React;Python+%7C+FastAPI+Backend+Developer;Building+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Ram+Bhagat;Software+Engineer+%7C+Angular+%7C+React;Python+%7C+Django+Backend+Developer;Building+Scalable+Web+Apps" />
 </p>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 
-<h1 align="center">💻 Ram Bhagat | Software Developer</h1>
-<h3 align="center">Angular • React • Python • FastAPI • JavaScript • HTML • CSS</h3>
+<h1 align="center">💻 Ram Bhagat | Software Engineer</h1>
+<h3 align="center">Angular • React • Python • Django • JavaScript • HTML • CSS</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ram-bhagat-677481295/" target="_blank">
@@ -26,7 +26,7 @@
 - 👨‍💻 Software Developer with **2.5+ years of hands-on experience**
 - 🅰️ Strong expertise in **Angular, JavaScript, HTML, CSS**
 - ⚛️ **Proficient in React & Next.js**
-- 🐍 Backend Developer with **Python & FastAPI**
+- 🐍 Backend Developer with **Python & Django**
 - 🔁 Experienced with **REST APIs, RxJS & Agile workflows**
 - 🎨 Expert in **Figma to Pixel-Perfect UI Conversion**
 - 🎯 Focused on building **fast, scalable & maintainable web applications**
@@ -48,7 +48,7 @@
 
 ### ⚙️ Backend
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-009688?style=for-the-badge&logo=django)
 
 ### 🛢️ Database & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
@@ -102,7 +102,7 @@
 
 - Advanced **Angular Architecture**
 - Enterprise **React Applications**
-- High-Performance **FastAPI Backends**
+- High-Performance **Django Backends**
 - Scalable **Full-Stack Systems**
 
 ---
